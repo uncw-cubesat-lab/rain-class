@@ -5,4 +5,5 @@ slideshow: https://docs.google.com/presentation/d/1Vo7wDw8WeT-7PJ4JS6JBB7uA4gA_u
 
 
 More recent document: https://docs.google.com/document/d/1FzDLaREPdOHnUQxAitIycwnYVxnR0WvjOVwM0_gza3I/edit?usp=sharing
+
 Link to view notebooks: https://nbviewer.jupyter.org/
